@@ -1,0 +1,48 @@
+button{
+    border: none;
+    color: white;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+.cardTime{
+    
+    border: solid #000 5px;
+    background-color:rgb(229, 226, 226);
+}
+.b_time{
+    font-size: 28px;
+}
+.btntimer{
+    width: 40%;
+    margin: 10px;
+}
+.w_time{
+    font-size: 46px;
+}
+button#btnTerminado{
+    background-color:#434344;
+}
+button.agregar{
+    background-color:#3E85C3;
+}
+.agregar:hover{
+    background-color:#1c6cb3;
+}
+#btnTerminado{
+    background-color: #9c9c98;
+}
+.fomulario{
+    border: solid 2px;
+    background-color: #434344;
+}
+.radio{
+    color: rgb(229, 226, 226);
+}
+.pBold{
+    font-weight: bold;
+    font-size: 21px;
+}
